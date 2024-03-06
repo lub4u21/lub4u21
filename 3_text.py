@@ -1,0 +1,9 @@
+print("hell0")
+print('''
+hello
+world
+''')
+print("'1'+'1'",'1'+'1')
+print("hi"*100)
+print(len('hi'*100))
+print('hi'.replace('hi','hello'))
